@@ -1,0 +1,1 @@
+{"batch_size": 256, "num_epochs": 16, "conv1d_filters": 128, "conv1d_kernel_size": 15, "conv2d_filters": 128, "conv2d_kernel_size": [15, 15], "strides": 5, "dense_units": 10, "dropout_rate": 0.2}
