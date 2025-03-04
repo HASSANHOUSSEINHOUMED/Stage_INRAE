@@ -14,7 +14,7 @@ Comprend les différents modèles d'apprentissage profond créés pour le projet
 ## Presentation of the Week : 
 Contient les présentations hebdomadaires faites aux superviseurs de stage, servant de rapports hebdomadaires.
 ## RNAfold : 
-Contient deux sous-dossiers, chacun représentant les données d'une famille. Les données contenues dans chaque dossier génèrent deux nouveaux fichiers pour chaque séquence : la matrice d'appariement et sa structure secondaire. Ces informations sont obtenues grâce à RNAfold.
+Contient quatre sous-dossiers, chacun représentant les données d'une famille. Les données contenues dans chaque dossier génèrent deux nouveaux fichiers pour chaque séquence : la matrice d'appariement et sa structure secondaire. Ces informations sont obtenues grâce à RNAfold.
 ## Results : 
 Contient tous les résultats du projet.
 ## Python Script : 
