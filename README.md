@@ -1,4 +1,4 @@
-# Contexte
+# SRNA_Classification
 Ce projet vise à classifier les familles de petits ARNs. Il étudie si la séquence d'ARN, la structure secondaire d'ARN, ou les deux peuvent mieux classifier deux familles appartenant aux ARNs non-codants. Les modèles d'apprentissage profond utilisés dans ce projet sont des réseaux de neurones convolutifs.
 
 Ce travail a été réalisé dans le cadre d'un stage à l'INRAE (Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement), portant sur l'évaluation, l'optimisation et la mise en œuvre d'un classificateur basé sur un réseau de neurones pour l'analyse de séquences d'ARN de virus. Le projet a également impliqué la proposition et mise en œuvre de modifications pour améliorer la génération d'exemples positifs et négatifs, ainsi que le développement de modèles prédictifs.
