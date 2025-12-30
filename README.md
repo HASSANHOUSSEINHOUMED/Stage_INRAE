@@ -83,52 +83,6 @@ Meilleure performance : Multi-Input CNN
 
 ---
 
-## 📁 Structure du Projet
-
-```
-Stage_INRAE/
-├── Data/                          # Données brutes (publiques)
-│   ├── [Séquences ARN FASTA]
-│   └── [Données RFAM]
-│
-├── RNAfold/                       # Prédictions structures secondaires
-│   ├── Famille_1/
-│   ├── Famille_2/
-│   ├── Famille_3/
-│   └── Famille_4/
-│   └── [Matrices + Structures 2D pour chaque séquence]
-│
-├── Models/                        # Architectures Deep Learning
-│   ├── cnn_1d.py                 # CNN 1D (séquences)
-│   ├── cnn_2d.py                 # CNN 2D (structures)
-│   └── multi_input_cnn.py        # Fusion séquence + structure
-│
-├── Functions/                     # Bibliothèques développées
-│   ├── preprocessing.py           # Nettoyage données
-│   ├── encoding.py               # Encodage séquences (one-hot, etc.)
-│   ├── metrics.py                # Métriques custom
-│   └── visualization.py          # Plots & analyses
-│
-├── Script_python/                 # Scripts d'entraînement
-│   ├── train_cnn_1d.py
-│   ├── train_cnn_2d.py
-│   └── train_multi_input.py
-│
-├── Script_tuto_keras/             # Exemples & références
-│   └── [Scripts de tutoriels Keras]
-│
-├── Results/                       # Résultats finaux
-│   ├── accuracy_comparison.csv
-│   ├── training_curves.png
-│   ├── confusion_matrices/
-│   └── predictions/
-│
-└── Presentation_of_the_week/     # Rapports hebdomadaires
-    └── [Présentations superviseurs]
-```
-
----
-
 ## 🛠️ Stack Technique
 
 ### **Deep Learning & ML**
@@ -209,7 +163,7 @@ Reproductibilité garantie ! 🎯
 
 **Hassan HOUSSEIN HOUMED**  
 📚 Master 2 Ingénierie Mathématiques & Biostatistique - Université Paris Cité  
-🏢 Stage INRAE (Institut National de Recherche pour l'Agriculture)  
+🏢 Stage INRAE (Institut national de recherche pour l'agriculture, l'alimentation et l'environnement)  
 📧 hassan.houssein.houmed@gmail.com  
 🐙 GitHub : https://github.com/HASSANHOUSSEINHOUMED
 
